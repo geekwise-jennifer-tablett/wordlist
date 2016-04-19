@@ -1,0 +1,13 @@
+#word_input{
+    height:2rem;
+    width:5rem;
+    background-color:#fbe8e8;
+}
+p{
+    height:2rem;
+    width:6rem;
+    background-color:#dbc3c3;
+    border:solid 2px #ba2a2a;
+    line-height:2rem;
+    text-align:center;
+}
